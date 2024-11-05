@@ -10,8 +10,10 @@ Exploratory Data Analysis (EDA): Using visualizations and summary statistics to 
 Insights and Interpretation: Providing actionable insights based on data trends and patterns.
 Data Visualization: Presenting findings through clear and informative visualizations.
 Tools Used:
+
 Other Tools: Excel, Power BI, Tableau (if applicable)
 Project Highlights:
+
 Comprehensive analysis with step-by-step documentation.
 Interactive visualizations for enhanced data interpretation.
 Clear explanations of the methodology, challenges encountered, and the solutions implemented.
