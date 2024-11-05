@@ -1,4 +1,6 @@
 *Data Analysis Assignment*
+
+
 This repository contains my Data Analysis Assignment, which showcases my ability to handle, analyze, and visualize data effectively. Through this assignment, I demonstrate a range of skills in data cleaning, exploration, statistical analysis, and insights generation.
 
 Key Objectives:
